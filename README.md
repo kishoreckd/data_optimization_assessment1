@@ -6,7 +6,7 @@ The service supports data ingestion, cleaning, anonymization, metadata extractio
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12+-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115.13-green.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-3.8.0-blue.svg?style=for-the-badge&logo=spacy&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-4.44.0-orange.svg?style=for-the-badge&logo=huggingface&logoColor=white)
@@ -51,7 +51,7 @@ app/
 
 ## 📋 Prerequisites
 
-- Python 3.8+
+- Python 3.12+
 - spaCy English model
 - Required Python packages (see installation section)
 
